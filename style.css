@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+    color: #f6f6f6;
+}
+
+h1{
+    strong {
+        color: #ffb018;
+
+    }
+}
+
+p {
+    color: darkgray;
+}
+
+button {
+    background-color: #ffb018;
+}
+
+a {
+    color: white;
+}
+
+footer {
+    background-color: gray;
+    color: white;
+
+}
+
