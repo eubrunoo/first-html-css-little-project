@@ -1,13 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
 body {
+    height: 100vh;
+    box-sizing: border-box;
     background-color: black;
     color: #f6f6f6;
 }
 
-h1{
-    strong {
-        color: #ffb018;
+.highlighting-title {
+    color: #ffb018;
+}
 
-    }
+.highlighting-name {
+    color: #ffb018;
+}
+
+.presentation {
+    display: flex;
+
 }
 
 p {
@@ -27,4 +40,3 @@ footer {
     color: white;
 
 }
-
