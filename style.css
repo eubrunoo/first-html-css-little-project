@@ -56,6 +56,9 @@ body{
 }
 
 .link__socials{
+    display: flex;
+    justify-content: center;
+    gap: 16px;
     border: 2px solid, #ffb018;
     width: 378px;
     text-align: center;
