@@ -4,7 +4,7 @@ This is my personal portfolio, developed with HTML and CSS to showcase my Front-
 
 ## Screenshot
 
-![Portfolio Screenshot](screenshot_project.png)
+![Portfolio Screenshot](screenshot_project.png
 
 ## Technologies Used
 
