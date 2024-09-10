@@ -25,6 +25,6 @@ You can view the live project [here](https://eubrunoo.github.io/first-html-css-l
 
 To run the project locally:
 ```bash
-git clone https://github.com/eubrunoo/first-html-css-little-project
+git clone https://github.com/eubrunoo/first-html-css-little-project.git
 cd first-html-css-little-project
 open index.html
